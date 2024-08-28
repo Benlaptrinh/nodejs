@@ -1,0 +1,26 @@
+{
+  "name": "hocnodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benlaptrinh/nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "viet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benlaptrinh/nodejs/issues"
+  },
+  "homepage": "https://github.com/Benlaptrinh/nodejs#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "hocnodejs": "file:"
+  }
+}
